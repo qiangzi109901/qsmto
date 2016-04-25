@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      "mcodes",
+      "/Users/qiangzi/workspace/codemaker/qsmto"
+    ]
+  ],
+  "_from": "mcodes@latest",
+  "_id": "mcodes@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mcodes",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/mcodes-1.0.0.tgz_1461508570838_0.3775772883091122"
+  },
+  "_npmUser": {
+    "email": "1009510944@qq.com",
+    "name": "qiangzi-mode"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "mcodes",
+    "raw": "mcodes",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "21580b04b49e3145a877b89de8312e18938dd394",
+  "_shrinkwrap": null,
+  "_spec": "mcodes",
+  "_where": "/Users/qiangzi/workspace/codemaker/qsmto",
+  "author": {
+    "name": "minqiang.li"
+  },
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "bluebird": "^3.3.5",
+    "body-parser": "~1.13.2",
+    "express": "^4.13.4",
+    "mdate": "1.0.1",
+    "memory-cache": "^0.1.5",
+    "mjax": "1.0.1",
+    "mprint": "1.0.5",
+    "mstr": "1.0.2",
+    "mvalidate": "1.0.9",
+    "mysql": "^2.10.2",
+    "node-mybatis": "1.0.3",
+    "xmldoc": "^0.4.0"
+  },
+  "description": "a tool to generate code",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "21580b04b49e3145a877b89de8312e18938dd394",
+    "tarball": "https://registry.npmjs.org/mcodes/-/mcodes-1.0.0.tgz"
+  },
+  "gitHead": "e3a84a50c85fc8dbcf316a4355b7edd18ad39d42",
+  "keywords": [
+    "autogeneratecode",
+    "automakecode",
+    "codegenerate",
+    "codemaker",
+    "generatecode",
+    "makecode"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "maintainers": [
+    {
+      "name": "qiangzi-mode",
+      "email": "1009510944@qq.com"
+    }
+  ],
+  "name": "mcodes",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
